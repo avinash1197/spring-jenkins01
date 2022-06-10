@@ -11,7 +11,7 @@ public class SpringJenkins01Application {
 	static Logger log = LoggerFactory.getLogger(SpringJenkins01Application.class);
 	
 	public void init() {
-		log.info("My App In Init Method");
+		log.info("My App In Init Method, 3rd Time");
 	}
 	
 	public static void main(String[] args) {
